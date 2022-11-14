@@ -1,4 +1,4 @@
 export default{
   port: 9000,
-  dbUrl: "http://localhost:27017/node-type-rest-api"
+  dbUrl: "mongodb+srv://node-type:node-type@cluster0.4zimxsy.mongodb.net/Products?retryWrites=true&w=majority"
 }
